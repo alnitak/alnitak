@@ -23,20 +23,24 @@ Feel free to explore my repositories, and if you have any questions, suggestions
 
 https://github.com/alnitak/flutter_soloud
 
-
 <table>
-	<tr>
-		<th>Project</th>
-		<th>Sources</th>
-	</tr>
-	<tr>
-		<td>Data</td>
-		<td>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)</td>
-	</tr>
-	<tr>
-		<td>Data</td>
-		<td>Data</td>
-	</tr>
+<tr>
+	<th>Project</th>
+	<th>Sources</th>
+</tr>
+<tr>
+	<td>
+		 <a width="320" height="240">
+		  	<source src="https://github.com/alnitak/flutter_soloud/assets/192827/384c88aa-5daf-4f10-a879-169ab8522690" type="video/mp4">
+			Your browser does not support the video tag.
+		</a> 
+	</td>
+	<td>
+		<a href="https://github.com/anuraghazra/github-readme-stats">
+  			<img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alnitak&repo=flutter_soloud" />
+		</a>
+	</td>
+</tr>
 </table>
 
 
