@@ -33,7 +33,7 @@ https://github.com/alnitak/flutter_soloud
 	</td>
 	<td>
 		<a href="https://github.com/anuraghazra/github-readme-stats">
-  			<img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alnitak&repo=flutter_soloud" />
+  			<img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alnitak&repo=flutter_soloud&theme=transparent" />
 		</a>
 	</td>
 </tr>
