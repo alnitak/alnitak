@@ -25,12 +25,10 @@ https://github.com/alnitak/flutter_soloud
 
 <table>
 <tr>
-	<th>Project</th>
-	<th>Sources</th>
-</tr>
-<tr>
 	<td width=250>
 		<video src="https://github.com/alnitak/flutter_soloud/assets/192827/384c88aa-5daf-4f10-a879-169ab8522690"></video>
+	</td>
+	<td width=250>
 		<video src="https://github.com/alnitak/flutter_soloud/assets/192827/bfc5aa73-6dbc-42f5-90e4-bc1cc5e181e0"></video>
 	</td>
 	<td>
@@ -39,6 +37,20 @@ https://github.com/alnitak/flutter_soloud
 		</a>
 	</td>
 </tr>
+
+ 
+<tr>
+	<td width=250>
+		<video src="https://github.com/alnitak/flutter_soloud/assets/192827/384c88aa-5daf-4f10-a879-169ab8522690"></video>
+	</td>
+	<td>
+		<a href="https://github.com/anuraghazra/github-readme-stats">
+  			<img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alnitak&repo=flutter_soloud" />
+		</a>
+	</td>
+</tr>
+
+
 </table>
 
 
