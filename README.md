@@ -20,6 +20,23 @@ Feel free to explore my repositories, and if you have any questions, suggestions
 
 ---
 
+https://github.com/alnitak/flutter_soloud
+
+
+<table>
+	<tr>
+		<th>Project</th>
+		<th>Sources</th>
+	</tr>
+	<tr>
+		<td>Data</td>
+		<td>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)</td>
+	</tr>
+	<tr>
+		<td>Data</td>
+		<td>Data</td>
+	</tr>
+</table>
 
 
 
