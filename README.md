@@ -8,7 +8,11 @@
 🌟 My GitHub Highlights:
 - [flutter_soloud](#flutter_soloud)👇🏼: Flutter low level audio plugin using SoLoud C++ library and FFI.
 - [flutter_opencv_dlib](#flutter_opencv_dlib)👇🏼: Realtime face detection and face recognition using OpenCV and dlib with Dart:ffi.
-- [magnifying_glass](#magnifying_glass)👇🏼: Flutter real-time magnifying glass lens widget with Barrel/Pincushion distortion.
+- [flutter_opengl](#flutter_opengl)👇🏼: A Flutter OpenGL ES plugin using a Texture() widget.
+- [magnifying_glass](#some-packages)👇🏼: Flutter real-time magnifying glass lens widget with Barrel/Pincushion distortion.
+- [flutter_star_menu](#some-packages)👇🏼: A simple way to attach a popup menu to any widget with any widget as menu entries.
+- [finger_painter](#some-packages)👇🏼: Painting package that let you finger paint with different brushes and different blend modes.
+- [flutter_flow_chart](#some-packages)👇🏼: A package that let you draw a flow chart diagram with different kind of customizable elements.
 
 Feel free to explore my repositories, and if you have any questions, suggestions, or collaboration ideas, I'm living on Earth (🇮🇹) and I'm just a message away. Let's code something amazing together! 🚀
 <div id="badges">
@@ -67,19 +71,81 @@ Feel free to explore my repositories, and if you have any questions, suggestions
 </tr>
 </table>
 
-#### magnifying_glass
+#### flutter_opengl
 
 <table>
 <tr>
-	<td width=500 valign="top">
+	<td width=250 valign="top">
+		<img src="https://github.com/alnitak/flutter_opengl/raw/master/images/flutter_opengl.gif?raw=true"></img>
+	</td>
+	<td width=250 valign="top">
+		<img src="https://github.com/alnitak/flutter_opengl/raw/master/images/flutter_OpenGL-textures.gif?raw=true"></img>
+	</td>
+	<td valign="top">
+		A Flutter OpenGL ES plugin using a Texture() widget. Supports Android, Linux and Windows. Many shaders from ShaderToy.com can be copy/pasted.
+		<br/><br/>
+		<a href="https://github.com/alnitak/flutter_opengl">
+  			<img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alnitak&repo=flutter_opengl&theme=transparent" />
+		</a>
+	</td>
+</tr>
+</table>
+
+
+
+#### some packages
+
+<table>
+<tr>
+	<td>magnifying_glass</td>
+	<td>flutter_star_menu</td>
+	<td>finger_painter</td>
+	<td>flutter_flow_chart</td>
+</tr>
+<tr>
+	<td width=220 valign="top">
 		<img width=200 src="https://github.com/alnitak/magnifying_glass/blob/master/img/magnifying_glass.gif?raw=true"></img>
 	</td>
+	<td width=220 valign="top">
+		<img width=200 src="https://github.com/alnitak/flutter_star_menu/raw/master/images/StarMenuDemo2.gif?raw=true"></img>
+	</td>
+	<td width=220 valign="top">
+		<img width=200 src="https://github.com/alnitak/finger_painter/raw/main/images/painter.gif?raw=true"></img>
+	</td>
+	<td width=220 valign="top">
+		<img width=200 src="https://github.com/alnitak/flutter_flow_chart/raw/main/images/flowchart.gif?raw=true"></img>
+	</td>
+</tr>
+<tr>
 	<td valign="top">
 		Flutter real-time magnifying glass lens widget with Barrel/Pincushion distortion.
 		<br/><br/>
 		<a href="https://github.com/alnitak/magnifying_glass">
   			<img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alnitak&repo=magnifying_glass&theme=transparent" />
 		</a>
+	</td>	
+	<td valign="top">
+		A simple way to attach a popup menu to any widget with any widget as menu entries.
+		<br/><br/>
+		<a href="https://github.com/alnitak/flutter_star_menu">
+  			<img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alnitak&repo=flutter_star_menu&theme=transparent" />
+		</a>
+	</td>
+	<td valign="top">
+		Painting package that let you finger paint with different brushes and different blend modes. The result can be read as a bitmap or list of Points to be used ie on a Map.
+		<br/><br/>
+		<a href="https://github.com/alnitak/finger_painter">
+  			<img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alnitak&repo=finger_painter&theme=transparent" />
+		</a>
+	</td>
+	<td valign="top">
+		A package that let you draw a flow chart diagram with different kind of customizable elements. Dashboards can be saved for later use.
+		<br/><br/>
+		<a href="https://github.com/alnitak/flutter_flow_chart">
+  			<img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alnitak&repo=flutter_flow_chart&theme=transparent" />
+		</a>
 	</td>
 </tr>
 </table>
+
+
