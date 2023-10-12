@@ -111,16 +111,16 @@ Feel free to explore my repositories, and if you have any questions, suggestions
 	<td>flutter_flow_chart</td>
 </tr>
 <tr>
-	<td width=210 valign="top">
+	<td width=200 valign="top">
 		<img width=200 src="https://github.com/alnitak/magnifying_glass/blob/master/img/magnifying_glass.gif?raw=true"></img>
 	</td>
-	<td width=210 valign="top">
+	<td width=200 valign="top">
 		<img width=200 src="https://github.com/alnitak/flutter_star_menu/raw/master/images/StarMenuDemo2.gif?raw=true"></img>
 	</td>
-	<td width=210 valign="top">
+	<td width=200 valign="top">
 		<img width=200 src="https://github.com/alnitak/finger_painter/raw/main/images/painter.gif?raw=true"></img>
 	</td>
-	<td width=210 valign="top">
+	<td width=200 valign="top">
 		<img width=200 src="https://github.com/alnitak/flutter_flow_chart/raw/main/images/flowchart.gif?raw=true"></img>
 	</td>
 </tr>
