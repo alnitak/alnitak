@@ -126,32 +126,32 @@ Feel free to explore my repositories, and if you have any questions, suggestions
 </tr>
 <tr>
 	<td valign="top">
-		Flutter real-time magnifying glass lens widget with Barrel/Pincushion distortion.
-		<br/><br/>
 		<a href="https://github.com/alnitak/magnifying_glass">
   			<img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alnitak&repo=magnifying_glass&theme=transparent" />
 		</a>
+  		<br/><br/>
+		Flutter real-time magnifying glass lens widget with Barrel/Pincushion distortion.
 	</td>	
 	<td valign="top">
-		A simple way to attach a popup menu to any widget with any widget as menu entries.
-		<br/><br/>
 		<a href="https://github.com/alnitak/flutter_star_menu">
   			<img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alnitak&repo=flutter_star_menu&theme=transparent" />
 		</a>
+		<br/><br/>
+		A simple way to attach a popup menu to any widget with any widget as menu entries.
 	</td>
 	<td valign="top">
-		Painting package that let you finger paint with different brushes and different blend modes. The result can be read as a bitmap or list of Points to be used ie on a Map.
-		<br/><br/>
 		<a href="https://github.com/alnitak/finger_painter">
   			<img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alnitak&repo=finger_painter&theme=transparent" />
 		</a>
+		<br/><br/>
+		Painting package that let you finger paint with different brushes and different blend modes. The result can be read as a bitmap or list of Points to be used ie on a Map.
 	</td>
 	<td valign="top">
-		A package that let you draw a flow chart diagram with different kind of customizable elements. Dashboards can be saved for later use.
-		<br/><br/>
 		<a href="https://github.com/alnitak/flutter_flow_chart">
   			<img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alnitak&repo=flutter_flow_chart&theme=transparent" />
 		</a>
+		<br/><br/>
+		A package that let you draw a flow chart diagram with different kind of customizable elements. Dashboards can be saved for later use.
 	</td>
 </tr>
 </table>
