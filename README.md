@@ -1,5 +1,5 @@
+![Hi_there2](https://github.com/alnitak/alnitak/assets/192827/221f5601-447a-42a2-ae2b-181e50ee3b3a)
 
-![Hi_there2](https://github.com/alnitak/alnitak/assets/192827/974931ab-9356-4076-89a6-3629fb7086ea)
 
 - 📆 Flutter enthusiast since 2018, I've been on an exciting journey of creating innovative solutions using the power of Dart and Flutter.
 - 🧰 Open Source Advocate: I'm all about giving back to the community. You'll find some cool open-source Flutter plugins in my repository.
