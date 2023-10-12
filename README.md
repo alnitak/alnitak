@@ -21,36 +21,30 @@ Feel free to explore my repositories, and if you have any questions, suggestions
 
 ---
 
-https://github.com/alnitak/flutter_soloud
+
 
 <table>
 <tr>
-	<td width=250>
+	<td width=250 valign="top">
 		<video src="https://github.com/alnitak/flutter_soloud/assets/192827/384c88aa-5daf-4f10-a879-169ab8522690"></video>
 	</td>
-	<td width=250>
+	<td width=250 valign="top">
 		<video src="https://github.com/alnitak/flutter_soloud/assets/192827/bfc5aa73-6dbc-42f5-90e4-bc1cc5e181e0"></video>
 	</td>
-	<td>
-		<a href="https://github.com/anuraghazra/github-readme-stats">
+	<td valign="top">
+		Flutter low level audio plugin using SoLoud C++ library and FFI
+		<ul>
+		<li><b>Player</b> and <b>capture</b> audio from microphone</li>
+		<li><b>3D audio</b> with doppler effect</li>
+		<li><b>Faders</b>, <b>oscillators</b>, audio effects like <b>echo</b>, <b>freeverb</b>, <b>robotizer</b>, <b>equalizer</b>, <b>bassboost</b></li>
+		<li>retrieval of audio <b>FFT</b> and <b>wave data</b></li>
+		</ul>
+		<br/>
+		<a href="https://github.com/alnitak/flutter_soloud">
   			<img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alnitak&repo=flutter_soloud&theme=transparent" />
 		</a>
 	</td>
 </tr>
-
- 
-<tr>
-	<td width=250>
-		<video src="https://github.com/alnitak/flutter_soloud/assets/192827/384c88aa-5daf-4f10-a879-169ab8522690"></video>
-	</td>
-	<td>
-		<a href="https://github.com/anuraghazra/github-readme-stats">
-  			<img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alnitak&repo=flutter_soloud" />
-		</a>
-	</td>
-</tr>
-
-
 </table>
 
 
