@@ -10,9 +10,9 @@
 - [flutter_opencv_dlib](#flutter_opencv_dlib)👇🏼: Realtime face detection and face recognition using OpenCV and dlib with Dart:ffi.
 - [flutter_opengl](#flutter_opengl)👇🏼: A Flutter OpenGL ES plugin using a Texture() widget.
 - [magnifying_glass](#some-packages)👇🏼: Flutter real-time magnifying glass lens widget with Barrel/Pincushion distortion.
-- [flutter_star_menu](#some-packages)👇🏼: A simple way to attach a popup menu to any widget with any widget as menu entries.
-- [finger_painter](#some-packages)👇🏼: Painting package that let you finger paint with different brushes and different blend modes.
-- [flutter_flow_chart](#some-packages)👇🏼: A package that let you draw a flow chart diagram with different kind of customizable elements.
+- [flutter_star_menu](#some-packages)👇🏼: Attach a popup menu to any widget with any widget as menu entries.
+- [finger_painter](#some-packages)👇🏼: Finger paint with different brushes and different blend modes.
+- [flutter_flow_chart](#some-packages)👇🏼: Draw a flow chart diagram with different kind of customizable elements.
 
 Feel free to explore my repositories, and if you have any questions, suggestions, or collaboration ideas, I'm living on Earth (🇮🇹) and I'm just a message away. Let's code something amazing together! 🚀
 <div id="badges">
