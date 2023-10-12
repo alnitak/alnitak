@@ -111,17 +111,17 @@ Feel free to explore my repositories, and if you have any questions, suggestions
 	<td>flutter_flow_chart</td>
 </tr>
 <tr>
-	<td width=190 valign="top">
-		<img width=190 src="https://github.com/alnitak/magnifying_glass/blob/master/img/magnifying_glass.gif?raw=true"></img>
+	<td width=185 valign="top">
+		<img width=185 src="https://github.com/alnitak/magnifying_glass/blob/master/img/magnifying_glass.gif?raw=true"></img>
 	</td>
-	<td width=190 valign="top">
-		<img width=190 src="https://github.com/alnitak/flutter_star_menu/raw/master/images/StarMenuDemo2.gif?raw=true"></img>
+	<td width=185 valign="top">
+		<img width=185 src="https://github.com/alnitak/flutter_star_menu/raw/master/images/StarMenuDemo2.gif?raw=true"></img>
 	</td>
-	<td width=190 valign="top">
-		<img width=190 src="https://github.com/alnitak/finger_painter/raw/main/images/painter.gif?raw=true"></img>
+	<td width=185 valign="top">
+		<img width=185 src="https://github.com/alnitak/finger_painter/raw/main/images/painter.gif?raw=true"></img>
 	</td>
-	<td width=190 valign="top">
-		<img width=190 src="https://github.com/alnitak/flutter_flow_chart/raw/main/images/flowchart.gif?raw=true"></img>
+	<td width=185 valign="top">
+		<img width=185 src="https://github.com/alnitak/flutter_flow_chart/raw/main/images/flowchart.gif?raw=true"></img>
 	</td>
 </tr>
 <tr>
