@@ -7,8 +7,8 @@
 
 🌟 My GitHub Highlights:
 - [flutter_soloud](https://github.com/alnitak/alnitak/README.md#flutter_soloud): Flutter low level audio plugin using SoLoud C++ library and FFI.
-- [Project Name]: Another cool project or plugin you've worked on.
-- [Project Name]: A third project to showcase your range of skills.
+- [flutter_opencv_dlib](https://github.com/alnitak/alnitak/README.md#flutter_opencv_dlib): Realtime face detection and face recognition using OpenCV and dlib with Dart:ffi.
+- [magnifying_glass](https://github.com/alnitak/alnitak/README.md#magnifying_glass): Flutter real-time magnifying glass lens widget with Barrel/Pincushion distortion.
 
 Feel free to explore my repositories, and if you have any questions, suggestions, or collaboration ideas, I'm living on Earth (🇮🇹) and I'm just a message away. Let's code something amazing together! 🚀
 <div id="badges">
@@ -50,4 +50,36 @@ Feel free to explore my repositories, and if you have any questions, suggestions
 
 
 
+#### flutter_opencv_dlib
 
+<table>
+<tr>
+	<td width=500 valign="top">
+		<video src="https://user-images.githubusercontent.com/192827/224568828-988137d8-8f80-45a6-8721-0e922792e2c8.mp4"></video>
+	</td>
+	<td valign="top">
+		Realtime face detection and face recognition using OpenCV and dlib with Dart:ffi
+		<br/><br/>
+		<a href="https://github.com/alnitak/flutter_opencv_dlib">
+  			<img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alnitak&repo=flutter_opencv_dlib&theme=transparent" />
+		</a>
+	</td>
+</tr>
+</table>
+
+#### magnifying_glass
+
+<table>
+<tr>
+	<td width=500 valign="top">
+		<img width=200 src="https://github.com/alnitak/magnifying_glass/blob/master/img/magnifying_glass.gif?raw=true"></img>
+	</td>
+	<td valign="top">
+		Flutter real-time magnifying glass lens widget with Barrel/Pincushion distortion.
+		<br/><br/>
+		<a href="https://github.com/alnitak/magnifying_glass">
+  			<img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alnitak&repo=magnifying_glass&theme=transparent" />
+		</a>
+	</td>
+</tr>
+</table>
