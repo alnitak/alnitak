@@ -6,9 +6,9 @@
 - 💡 Problem Solver: I love tackling complex challenges, and I'm constantly learning to keep my skills sharp.
 
 🌟 My GitHub Highlights:
-- [flutter_soloud](https://github.com/alnitak/alnitak/README.md#flutter_soloud): Flutter low level audio plugin using SoLoud C++ library and FFI.
-- [flutter_opencv_dlib](https://github.com/alnitak/alnitak/README.md#flutter_opencv_dlib): Realtime face detection and face recognition using OpenCV and dlib with Dart:ffi.
-- [magnifying_glass](https://github.com/alnitak/alnitak/README.md#magnifying_glass): Flutter real-time magnifying glass lens widget with Barrel/Pincushion distortion.
+- [flutter_soloud](#flutter_soloud)👇🏼: Flutter low level audio plugin using SoLoud C++ library and FFI.
+- [flutter_opencv_dlib](#flutter_opencv_dlib)👇🏼: Realtime face detection and face recognition using OpenCV and dlib with Dart:ffi.
+- [magnifying_glass](#magnifying_glass)👇🏼: Flutter real-time magnifying glass lens widget with Barrel/Pincushion distortion.
 
 Feel free to explore my repositories, and if you have any questions, suggestions, or collaboration ideas, I'm living on Earth (🇮🇹) and I'm just a message away. Let's code something amazing together! 🚀
 <div id="badges">
