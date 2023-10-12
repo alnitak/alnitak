@@ -6,7 +6,7 @@
 - 💡 Problem Solver: I love tackling complex challenges, and I'm constantly learning to keep my skills sharp.
 
 🌟 My GitHub Highlights:
-- [Project Name]: A brief description of your most impressive or popular project.
+- [flutter_soloud](https://github.com/alnitak/alnitak/README.md#flutter_soloud): Flutter low level audio plugin using SoLoud C++ library and FFI.
 - [Project Name]: Another cool project or plugin you've worked on.
 - [Project Name]: A third project to showcase your range of skills.
 
@@ -22,6 +22,7 @@ Feel free to explore my repositories, and if you have any questions, suggestions
 ---
 
 
+#### flutter_soloud
 
 <table>
 <tr>
