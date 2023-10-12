@@ -82,7 +82,15 @@ Feel free to explore my repositories, and if you have any questions, suggestions
 		<img src="https://github.com/alnitak/flutter_opengl/raw/master/images/flutter_OpenGL-textures.gif?raw=true"></img>
 	</td>
 	<td valign="top">
-		A Flutter OpenGL ES plugin using a Texture() widget. Supports Android, Linux and Windows. Many shaders from ShaderToy.com can be copy/pasted.
+		A Flutter OpenGL ES plugin using a Texture() widget. Supports Android, Linux and Windows.<br/>
+		A project born in 2019 to address the absence of native OpenGL.<br/>
+		<ul> 
+			<li>use platform GLSL</li>
+			<li>shaders can be modified and compiled at ruun-time</li>
+			<li>use dart:ffi to bind c/c++ OpenGL calls</li>
+			<li>vertex and fragment shaders</li>
+			<li>Many shaders from ShaderToy.com can be copy/pasted</li>
+		</ul>
 		<br/><br/>
 		<a href="https://github.com/alnitak/flutter_opengl">
   			<img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alnitak&repo=flutter_opengl&theme=transparent" />
