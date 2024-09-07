@@ -1,10 +1,5 @@
 ![Hi_there2](https://github.com/alnitak/alnitak/assets/192827/221f5601-447a-42a2-ae2b-181e50ee3b3a)
 
-
-- 📆 Flutter enthusiast since 2018, I've been on an exciting journey of creating innovative solutions using the power of Dart and Flutter.
-- 🧰 Open Source Advocate: I'm all about giving back to the community. You'll find some cool open-source Flutter plugins in my repository.
-- 💡 Problem Solver: I love tackling complex challenges, and I'm constantly learning to keep my skills sharp.
-
 🌟 My GitHub Highlights:
 - [flutter_soloud](#flutter_soloud)👇🏼: Flutter low level audio plugin using SoLoud C++ library and FFI.
 - [flutter_opencv_dlib](#flutter_opencv_dlib)👇🏼: Realtime face detection and face recognition using OpenCV and dlib with Dart:ffi.
@@ -12,7 +7,7 @@
 - [magnifying_glass](#some-packages)👇🏼: Flutter real-time magnifying glass lens widget with Barrel/Pincushion distortion.
 - [flutter_star_menu](#some-packages)👇🏼: Attach a popup menu to any widget with any widget as menu entries.
 - [finger_painter](#some-packages)👇🏼: Finger paint with different brushes and different blend modes.
-- [flutter_flow_chart](#some-packages)👇🏼: Draw a flow chart diagram with different kind of customizable elements.
+- [flutter_flow_chart](#some-packages)👇🏼: Draw a flow chart diagram with different kinds of customizable elements.
 
 Feel free to explore my repositories, and if you have any questions, suggestions, or collaboration ideas, I'm living on Earth (🇮🇹) and I'm just a message away. Let's code something amazing together! 🚀
 <div id="badges">
@@ -37,7 +32,7 @@ Feel free to explore my repositories, and if you have any questions, suggestions
 		<video src="https://github.com/alnitak/flutter_soloud/assets/192827/bfc5aa73-6dbc-42f5-90e4-bc1cc5e181e0"></video>
 	</td>
 	<td valign="top">
-		Flutter low level audio plugin using SoLoud C++ library and FFI
+		Flutter low-level audio plugin using SoLoud C++ library and FFI
 		<ul>
 		<li><b>Player</b> and <b>capture</b> audio from microphone</li>
 		<li><b>3D audio</b> with doppler effect</li>
