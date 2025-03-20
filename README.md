@@ -139,14 +139,14 @@ Feel free to explore my repositories, and if you have any questions, suggestions
   			<img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alnitak&repo=finger_painter&theme=transparent" />
 		</a>
 		<br/>
-		Painting package that let you finger paint with different brushes and different blend modes. The result can be read as a bitmap or list of Points to be used ie on a Map.
+		Painting package that lets you finger paint with different brushes and different blend modes. The result can be read as a bitmap or list of Points to be used ie on a Map.
 	</td>
 	<td valign="top">
 		<a href="https://github.com/alnitak/flutter_flow_chart">
   			<img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alnitak&repo=flutter_flow_chart&theme=transparent" />
 		</a>
 		<br/>
-		A package that let you draw a flow chart diagram with different kind of customizable elements. Dashboards can be saved for later use.
+		A package that lets you draw a flow chart diagram with different kinds of customizable elements. Dashboards can be saved for later use.
 	</td>
 </tr>
 </table>
