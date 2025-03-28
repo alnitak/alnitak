@@ -34,7 +34,6 @@ Feel free to explore my repositories, and if you have any questions, suggestions
 	<td valign="top">
 		Flutter low-level audio plugin using SoLoud C++ library and FFI
 		<ul>
-		<li><b>Player</b> and <b>capture</b> audio from microphone</li>
 		<li><b>3D audio</b> with doppler effect</li>
 		<li><b>Faders</b>, <b>oscillators</b>, audio effects like <b>echo</b>, <b>freeverb</b>, <b>robotizer</b>, <b>equalizer</b>, <b>bassboost</b></li>
 		<li>retrieval of audio <b>FFT</b> and <b>wave data</b></li>
